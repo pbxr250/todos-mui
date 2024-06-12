@@ -12,6 +12,7 @@ export default defineConfig({
       }
     }
   },
+  base: '/todos-mui/',
   test: {
     globals: true,
     environment: 'jsdom',
